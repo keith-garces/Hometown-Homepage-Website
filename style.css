@@ -208,5 +208,10 @@ h3 {
         display: flex;
          flex-wrap: wrap;
     }
+    .card {
+      margin: 10px auto;
+    }
 
 }
+
+
